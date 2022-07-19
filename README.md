@@ -4,20 +4,19 @@
 <br>
 <p>Comencemos una breve presentación sobre mí..:</p>
 <br>
-<ul >Yo amo...
-  <li >Dias Lluviosos. ⛈</li>
-  <li >Inverno. ❄</li>
-  <li >Leer. 📚</li>
-</ul> 
-<br>
-<ul >Yo prefiero...
-  <li >Codear en silencio. 🤫</li>
-  <li >Comida dulce. 🍫</li>
-</ul>
-<br>
-<ul >YO...
-  <li >Finalice el Bootcamp de SoyHenry.</li>
-  <li >Me encuento buscando empleo. 🙋🏽‍♂️</li>
+<ul >¿ Quién soy ? 🕵️‍♀️
+ ✅ Mi nombre es Facundo, soy desarrollador web full stack con facilidad en análisis de problemas y diseño de soluciones creativas y eficaces, como también fácil adaptación y aporte positivo en equipo.
+
+¿ Por qué yo? 🔍
+ ✅ Liderazgo: me considero un apasionado del comportamiento humano y su potencial, disfruto ocupar roles de guía para convertir esa potencia en hechos.
+ ✅ Mejora Continua: soy detallista y me gusta superar mis propios límites, por eso siempre trato de mejorar la calidad de mis acciones y sus resultados.
+
+¿ Hacia donde me dirijo laboralmente ? 🧭
+ ✅ Desarrollarme como Full Stack y ser capaz en el largo plazo, de aplicar mis capacidades de liderazgo y emprendimiento. 
+
+Si te querés saber más de mí para una oferta laboral, contactame por alguno de estos medios 🤝 :
+Whatsapp: +54 9 1138195142 
+Mail: faculeve12@gmail.com
 </ul>
 <br>
 <h3 align="center">¿Quieres saber más acerca de mí? 👇🏽</h3>
